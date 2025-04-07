@@ -1,0 +1,27 @@
+.profileContainer {
+  min-height: 336px;
+}
+
+.profileData {
+  width: 400px;
+}
+
+.profileBackground {
+  text-align: center;
+}
+
+.blockie {
+  position: absolute;
+  height: 38px;
+  width: 38px;
+  right: 8rem;
+  bottom: -1.7rem;
+}
+
+.profileImage {
+  text-align: center;
+}
+
+.emptyDescription {
+  min-height: 120px;
+}
